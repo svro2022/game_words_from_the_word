@@ -1,4 +1,4 @@
-# Курс 2. Курсовая работа <br>
+# Game: Words from the Word <br>
 
 ---
 
